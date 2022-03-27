@@ -42,7 +42,7 @@ While logged in, you can now add your own comments and upvote posts. Click on `(
 
 
 ## Website
-https://mysterious-plains-27186.herokuapp.com/
+https://masuamah-python-newsfeed.herokuapp.com/
 
 ## Contributors
 Michelle Asuamah
